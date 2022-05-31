@@ -1,1 +1,3 @@
-"Hi"
+Quandale = "Hi"
+
+print(Quandale)
