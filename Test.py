@@ -1,3 +1,0 @@
-Quandale = "Hi"
-
-print(Quandale)
